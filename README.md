@@ -15,6 +15,10 @@ The risk is caused by human error rather than technical exploitation.
 
 ## Solution
 The tool detects scenarios where multiple recipients are included in visible fields and alerts the user before the email is sent, prompting safer alternatives such as BCC.
+## Example – Alert Before Sending
+![BCC Alert Example](screenshots/BBC2.jpg)
+
+
 
 ## Key Security Concepts
 - Data leakage prevention
